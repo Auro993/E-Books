@@ -80,47 +80,21 @@ Apache Tomcat
 
 📁 <span style="color:#009688">Project Structure</span>
 
-E_Books/
-│
-├── src/main/java
-│   ├── com.dao
-│   │   ├── 📄 BookDAO.java
-│   │   ├── 📄 CartDAO.java
-│   │   └── 📄 UserDAO.java
-│   │
-│   ├── com.db
-│   │   └── 🔌 DBConnect.java
-│   │
-│   ├── com.servlet
-│   │   ├── ➕ AddToCart.java
-│   │   ├── 🧹 ClearCart.java
-│   │   ├── 🔑 LoginServlet.java
-│   │   ├── 📦 ProcessOrder.java
-│   │   ├── ❌ RemoveFromCart.java
-│   │   ├── 👤 UserServlet.java
-│   │   └── 🔍 ViewDetails.java
-│   │
-│   └── com.user
-│       ├── 📘 Book.java
-│       └── 👤 UserDetails.java
-│
-├── src/main/webapp
-│   ├── css/
-│   ├── img/
-│   ├── WEB-INF/
-│   │
-│   ├── 🏠 home.jsp
-│   ├── 🔐 login.jsp
-│   ├── 📝 register.jsp
-│   ├── 📚 bookDetails.jsp
-│   ├── 🛒 cart.jsp
-│   ├── 💳 checkout.jsp
-│   ├── ✅ order-success.jsp
-│   ├── 🚪 logout.jsp
-│   └── index.jsp
-│
-└── README.md
-
+E-Books
+ ├── src
+ │   └── main
+ │       ├── java
+ │       │   ├── com.dao
+ │       │   ├── com.db
+ │       │   ├── com.servlet
+ │       │   └── com.user
+ │       └── webapp
+ │           ├── css
+ │           ├── img
+ │           ├── login.jsp
+ │           ├── register.jsp
+ │           └── index.jsp
+ └── README.md
 
 ---
 
