@@ -214,8 +214,8 @@ Right-click → Run on Server
 
 🔐 <span style="color:#E91E63">Admin Login</span>
 
-Email: admin@gmail.com
-Password: admin
+Email: aurosmitasahoo4@gmail.com
+
 
 
 ---
